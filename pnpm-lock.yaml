@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@nolebase/vitepress-plugin-enhanced-readabilities':
-        specifier: 2.15.0
-        version: 2.15.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))
+        specifier: 2.16.0
+        version: 2.16.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))
       prettier:
         specifier: ^3.5.3
         version: 3.5.3
@@ -36,8 +36,8 @@ importers:
         specifier: ^1.1.6
         version: 1.1.6
       vitepress-plugin-tabs:
-        specifier: ^0.6.0
-        version: 0.6.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))(vue@3.5.13)
+        specifier: ^0.7.0
+        version: 0.7.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))(vue@3.5.13)
       vitepress-sidebar:
         specifier: ^1.31.1
         version: 1.31.1
@@ -335,8 +335,8 @@ packages:
     peerDependencies:
       vitepress: ^1.5.0 || ^2.0.0-alpha.1
 
-  '@nolebase/vitepress-plugin-enhanced-readabilities@2.15.0':
-    resolution: {integrity: sha512-ZtJlet4qAyKhPKZhRZoHGHTmhw1O4gxHylHk/AE4rbzGfODYNVfJUpFiKbTjbDrpiw584T0Iw4Xoz6pQZ1FgFg==}
+  '@nolebase/vitepress-plugin-enhanced-readabilities@2.16.0':
+    resolution: {integrity: sha512-taiG848UWFQizhJhbvbcpMo1JjA80aL4InepEcSJ9DxN7lNKJvqIOusSB6TjCBkNt8uY6jijSxjTI1tdec+ecg==}
     peerDependencies:
       vitepress: ^1.5.0 || ^2.0.0-alpha.1
 
@@ -1210,11 +1210,11 @@ packages:
   vitepress-plugin-image-viewer@1.1.6:
     resolution: {integrity: sha512-ZfYy1s/bXju6vGVsE/5gPXT449+KaXZ6ZIPAvcmPM07VmC7Bv57bCvFar2II7C2EjexxfPQsxUh70vSBbe14kQ==}
 
-  vitepress-plugin-tabs@0.6.0:
-    resolution: {integrity: sha512-35mQUbI6lcVrLj0PpwautXm8LiV6Gz5ZDlklVRf/0KDd6gGs8HaZztqOxdffnzCiKIFLURBx930xq28it9jQTg==}
+  vitepress-plugin-tabs@0.7.0:
+    resolution: {integrity: sha512-++RyeFNEsj/bJBXJK1IURRbJOB9vRqCahRwk1a2ntp9+SZy+7qgE5806vw9W7+uKR9CMi1iW+6plOcCKpmDnfA==}
     peerDependencies:
       vitepress: ^1.0.0
-      vue: ^3.3.8
+      vue: ^3.5.0
 
   vitepress-sidebar@1.31.1:
     resolution: {integrity: sha512-Hx10z5le87jIIXVfKq4AtRrVqVJJ/1cQsZhmwT+ghVR/j4Yor9FjNMszyigJ54ktrEtoxSLO6C9tvuLauT4lZA==}
@@ -1518,7 +1518,7 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  '@nolebase/vitepress-plugin-enhanced-readabilities@2.15.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))':
+  '@nolebase/vitepress-plugin-enhanced-readabilities@2.16.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))':
     dependencies:
       '@iconify-json/carbon': 1.2.8
       '@iconify-json/icon-park-outline': 1.2.2
@@ -2410,7 +2410,7 @@ snapshots:
     dependencies:
       viewerjs: 1.11.7
 
-  vitepress-plugin-tabs@0.6.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))(vue@3.5.13):
+  vitepress-plugin-tabs@0.7.0(vitepress@1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2))(vue@3.5.13):
     dependencies:
       vitepress: 1.6.3(@algolia/client-search@5.23.4)(less@4.3.0)(postcss@8.5.3)(sass@1.87.0)(search-insights@2.17.2)
       vue: 3.5.13
