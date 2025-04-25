@@ -4,7 +4,7 @@ title: About Democracy 2.0
 
 # About Democracy 2.0
 
-This book is a..
+This book is an attempt at designing the next system of governing for the United States.
 
 
 You are invited to contribute (in the open source way) by making edits and pull requests at [this link on Github](https://github.com/selwynpolit/d9book/tree/gh-pages/book). There is a very simple online editor which automatically forks the repo and lets you type your changes directly in your browser in [markdown format](https://github.github.com/gfm/). Try it by editing a chapter of interest to you. And while you are here, [see who else contributed to the masterpiece 😉](attribution)
