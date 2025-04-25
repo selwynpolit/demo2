@@ -37,7 +37,7 @@ export default {
     // Obtain configuration from: https://giscus.app/
     giscusTalk(
       {
-        repo: 'selwynpolit/d9book',
+        repo: 'selwynpolit/demo2',
         repoId: 'MDEwOlJlcG9zaXRvcnkzMjUxNTQ1Nzg=',
         category: 'Q&A', // default: `General`
         categoryId: 'MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyMjY2NDE4s',

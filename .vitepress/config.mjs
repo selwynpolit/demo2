@@ -37,7 +37,7 @@ export default defineConfig({
       { text: 'About', link: '/about' },
       { text: 'Attribution', link: '/attribution' },
       { text: 'Contribute', link: '/contribute' },
-      { text: 'Fork me', link: 'https://github.com/selwynpolit/d9book/fork' },
+      { text: 'Fork me', link: 'https://github.com/selwynpolit/demo2/fork' },
     ],
 
     outline: {
@@ -49,7 +49,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/selwynpolit/d9book/edit/gh-pages/book/:path',
+      pattern: 'https://github.com/selwynpolit/demo2/edit/gh-pages/book/:path',
       text: 'Edit this page on GitHub',
     },
 
@@ -76,10 +76,10 @@ export default defineConfig({
     footer: {
       message:
         '<span>\n' +
-        '  <a property="dct:title" rel="cc:attributionURL" href="//selwynpolit.github.io/d9book">Drupal at your fingertips</a>\n' +
+        '  <a property="dct:title" rel="cc:attributionURL" href="//selwynpolit.github.io/demo2">Democracy 2.0</a>\n' +
         '  by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="//drupal.org/u/selwynpolit">Selwyn Polit</a>\n' +
         '  is licensed under <a href="//creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer">CC BY 4.0\n' +
-        '  </a><br>Drupal is a registered trademark of Dries Buytaert</span>',
+        '  </a><br>more info here</span>',
     },
   },
 });
