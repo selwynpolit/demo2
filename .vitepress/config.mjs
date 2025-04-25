@@ -6,7 +6,7 @@ export default defineConfig({
   title: 'Democracy 2.0',
   description:
     'Modern Democracy for people based on the principles of the open source movement.',
-  base: '/',
+  base: '/demo2',
   srcDir: './book',
   outDir: './dist',
   cleanUrls: true,
