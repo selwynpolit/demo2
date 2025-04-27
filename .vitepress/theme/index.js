@@ -38,9 +38,9 @@ export default {
     giscusTalk(
       {
         repo: 'selwynpolit/demo2',
-        repoId: 'MDEwOlJlcG9zaXRvcnkzMjUxNTQ1Nzg=',
-        category: 'Q&A', // default: `General`
-        categoryId: 'MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyMjY2NDE4s',
+        repoId: 'R_kgDOOfRwUw',
+        category: 'General',
+        categoryId: 'DIC_kwDOOfRwU84CpcC6',
         mapping: 'title', // default: `pathname`
         inputPosition: 'bottom', // default: `top`
         lang: 'en', // default: `zh-CN`

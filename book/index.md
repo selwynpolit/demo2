@@ -19,16 +19,16 @@ hero:
       link: //github.com/selwynpolit/demo2
 
 features:
-#  - icon: 🎯
-#    title: Actions
-#    details: Use the Drupal core Actions module to control Drupal
-#    link: /actions
-#
 #  - icon: 🤯
-#    title: Artificial Intelligence
-#    details: Dig into the world of AI and Drupal
-#    link: /ai
-#
+#    title: Origin
+#    details: Origins of the project
+#    link: /origin
+
+  - icon: 🎯
+    title: Overview
+    details: Overview of the project
+    link: /overview
+
 #
 #  - icon: 🪣
 #    title: AJAX
