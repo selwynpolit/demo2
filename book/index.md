@@ -20,6 +20,11 @@ hero:
 
 features:
   - icon: 🤯
+    title: Core Values
+    details: Core values of the project
+    link: /core_values
+    
+  - icon: 🤯
     title: Governance
     details: Governance and decision making in a modern democracy
     link: /governance

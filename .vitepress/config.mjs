@@ -66,6 +66,7 @@ export default defineConfig({
         'structure.md',
         'open_source.md',
         'change_log.md',
+        'guts.md',
         'open_source_trends.md'
       ],
     }),
