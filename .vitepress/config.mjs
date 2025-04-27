@@ -65,6 +65,7 @@ export default defineConfig({
         'contribute.md',
         'structure.md',
         'open_source.md',
+        'change_log.md',
         'open_source_trends.md'
       ],
     }),
