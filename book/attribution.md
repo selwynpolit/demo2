@@ -8,4 +8,4 @@ title: Attribution
 
 Thanks to these rockstars for their contribution to the project. Please add your name below!
 
-[Phillip Norton](https://github.com/philipnorton42)- provided editing and a lot of material from his excellent articles at <https://www.hashbangcode.com>
+[Maks Oleksyuk](https://github.com/maks-oleksyuk) - Amazing work supporting this and my other projects. Keeping Vitepress and Github actions humming along. General helpful suggestions.
