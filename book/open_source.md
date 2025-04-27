@@ -7,6 +7,7 @@ title: Open Source
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fopen_source&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
 
+I've been a long term proponent of the open source movement and I've worked in the field for most of my professional career.  The principles of open source can be applied to the design of a new democracy.
 
 The open source movement began as a response to the increasing restriction and commercialization of software in the late 1970s and early 1980s. Initially, software was often shared freely among researchers and developers, but as proprietary software became the norm, access to source code was restricted, and collaboration diminished[7].
 
@@ -106,6 +107,6 @@ Citations:
 [38] https://www.hp.com/us-en/shop/tech-takes/open-source-software-influence
 
 ---
-Answer from Perplexity: pplx.ai/share
+Most of this answer is from Perplexity: pplx.ai/share
 
 For more information, see [Open Source Trends](open_source_trends.md).

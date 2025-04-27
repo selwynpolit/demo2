@@ -69,10 +69,10 @@ features:
     details: Contact us
     link: /contact
 
-#  - icon: 📅
-#    title: Dates and Times
-#    details: Getting and setting date fields, date arithmetic, expiration, node creation and changed dates, Smart date module
-#    link: /dates
+  - icon: 📅
+    title: Consumer Protection
+    details: Consumer protection framework
+    link: /consumer_protection
 #
 #  - icon: 🐞
 #    title: Debugging
