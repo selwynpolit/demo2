@@ -4,6 +4,8 @@ title: Contribute to Democracy 2.0
 
 # Contributing to Democracy 2.0
 
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fcontribute&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
+
 This website is meant to be a living document. It is a work in progress and I would love your help in making it better. If you have suggestions for changes, please feel free to make them. The site is hosted on the github platform which is also home to many open source projects. 
 
 Github has a very convenient set of tools which allow you to easily make changes via the web interface. You can use its web interface to directly. The easiest way to suggest changes is to use the "Edit this page on GitHub" link at the bottom of each page. This will take you to the source file for the page you are on. You can then click the pencil icon to edit the file.

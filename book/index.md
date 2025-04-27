@@ -19,52 +19,51 @@ hero:
       link: //github.com/selwynpolit/demo2
 
 features:
-#  - icon: 🤯
-#    title: Origin
-#    details: Origins of the project
-#    link: /origin
+  - icon: 🤯
+    title: Governance
+    details: Governance and decision making in a modern democracy
+    link: /governance
 
   - icon: 🎯
     title: Overview
     details: Overview of the project
     link: /overview
 
-#
-#  - icon: 🪣
-#    title: AJAX
-#    details: Why refresh the page when you can use the built-in AJAX functionality
-#    link: /ajax
-#
-#  - icon: 🔢
-#    title: Batch and Queue
-#    details: The Batch API and Queue subsystem let you take on large tasks
-#    link: /bq
-#
-#  - icon: 🧱
-#    title: Blocks
-#    details: Generate the code to create blocks, dependency injection, blocks with config forms, block permissions
-#    link: /blocks
-#
-#  - icon: 💽
-#    title: Caching
-#    details: Improving site performance with cache tags, caching REST resources, development setup, various caching tips
-#    link: /caching
-#
-#  - icon: 📦
-#    title: Composer
-#    details: Using Composer to manage dependencies and patches
-#    link: /composer
-#
-#  - icon: 🧰
-#    title: Config
-#    details: Creating, loading, overriding, drush config commands
-#    link: /config
-#
-#  - icon: ⏰
-#    title: Cron
-#    details: Using hook_cron, sample crontab files, how to stop cron
-#    link: /cron
-#
+  - icon: 🪣
+    title: Community
+    details: Community and citizen groups
+    link: /community
+
+  - icon: 🔢
+    title: Legislative Development
+    details: Legislative development and open source lawmaking
+    link: /legislative_development
+
+  - icon: 🧱
+    title: Overview
+    details: Overview of the project
+    link: /overview
+
+  - icon: 💽
+    title: Principles
+    details: Principles and policies
+    link: /principles
+
+  - icon: 📦
+    title: Reforms
+    details: Reform Policies
+    link: /composer
+
+  - icon: 🧰
+    title: Get Involved
+    details: Get involved in the project
+    link: /get_involved
+
+  - icon: ⏰
+    title: Contact
+    details: Contact us
+    link: /contact
+
 #  - icon: 📅
 #    title: Dates and Times
 #    details: Getting and setting date fields, date arithmetic, expiration, node creation and changed dates, Smart date module
@@ -110,11 +109,11 @@ features:
 #    details: Creating and modifying forms using the Form API, AJAX forms, modals
 #    link: /forms
 #
-  - icon: 📖
-    title: General
-    details: Useful things that seemed to not fit well elsewhere
-    link: /general
-
+#  - icon: 📖
+#    title: General
+#    details: Useful things that seemed to not fit well elsewhere
+#    link: /general
+#
 #  - icon: 🏝
 #    title: Getting off the Island
 #    details: Reaching out of Drupal using Guzzle, downloading files
@@ -134,12 +133,12 @@ features:
 #   title: Layout Builder
 #   details: Building layouts with the Layout Builder
 #   link: /layoutbuilder
-
-  - icon: 🎓
-    title: Learning
-    details: Learning and keeping up with the latest on Drupal including podcasts, books and blogs
-    link: /learn
-
+#
+#  - icon: 🎓
+#    title: Learning
+#    details: Learning and keeping up with the latest on Drupal including podcasts, books and blogs
+#    link: /learn
+#
 #  - icon: 🔗
 #    title: Links
 #    details: Links, Aliases and URLs

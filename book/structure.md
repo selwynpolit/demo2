@@ -1,5 +1,5 @@
 ---
-title: About Democracy 2.0
+title: structure
 ---
 
 # Structure of the site

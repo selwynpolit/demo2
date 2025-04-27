@@ -1,10 +1,13 @@
 ---
-title: About Democracy 2.0
+title: About
 ---
-
 # About Democracy 2.0
 
-This book is an attempt at designing the next system of governing for the United States and potentially other countries.
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fabout&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
+
+
+
+This is an attempt to design the next system of governing for the United States and potentially other countries.
 
 ## Core Values and Principles
 
@@ -44,7 +47,7 @@ TODO:   A historical timeline that outlines how our system has evolved (or can b
 
 
 ## How to contribute
-You are invited to contribute (in the [open source](opensource.md) way) by making edits and pull requests(a fancy way of getting others to review your changes) at [this link on Github](https://github.com/selwynpolit/demo2/tree/gh-pages/book). There is a very simple online editor which automatically forks the repo and lets you type your changes directly in your browser in [markdown format](https://github.github.com/gfm/). Try it by editing a chapter of interest to you. And while you are here, [see who else contributed to the masterpiece 😉](attribution)
+You are invited to contribute (in the [open source](open_source.md) way) by making edits and pull requests(a fancy way of getting others to review your changes) at [this link on Github](https://github.com/selwynpolit/demo2/tree/gh-pages/book). There is a very simple online editor which automatically forks the repo and lets you type your changes directly in your browser in [markdown format](https://github.github.com/gfm/). Try it by editing a chapter of interest to you. And while you are here, [see who else contributed to the masterpiece 😉](attribution)
 
 If you are inspired, please be a part of this project by contributing your own thoughts and ideas. ([Imposters](https://events.drupal.org/drupalcon2021/news/youve-got-notes-about-impostor-syndrome) are welcomed!) Add your name on the [attribution page](attribution). Either add a note in the comment form at the bottom of each page or click the `Edit this page on GitHub` also at the very bottom of any page and start editing. You don't need to know Git.
 

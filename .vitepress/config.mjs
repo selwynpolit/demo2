@@ -60,11 +60,12 @@ export default defineConfig({
       hyphenToSpace: true,
       excludePattern: [
         'about.md',
+        'blank.md',
         'attribution.md',
-        'mysteries.md',
         'contribute.md',
-        'layoutbuilder.md',
-        'decoupled.md'
+        'structure.md',
+        'open_source.md',
+        'open_source_trends.md'
       ],
     }),
 
