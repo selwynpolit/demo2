@@ -14,4 +14,4 @@ title: Principles
   Clear guidelines on maintaining secular government practices (e.g., removal of religious invocations like “so help me God”).
 
 ## Intergenerational and Environmental Stewardship  
-  Discuss the Seven Generations principle and strategies for long-term sustainability.
+  Integrated Seven Generations principle and strategies for long-term sustainability.

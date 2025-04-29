@@ -19,20 +19,25 @@ hero:
       link: //github.com/selwynpolit/demo2
 
 features:
-  - icon: 🤯
-    title: Core Values
-    details: Core values of the project
-    link: /core_values
-    
-  - icon: 🤯
-    title: Governance
-    details: Governance and decision making in a modern democracy
-    link: /governance
-
   - icon: 🎯
     title: Overview
     details: Overview of the project
     link: /overview
+
+  - icon: 🧱
+    title: Core Values
+    details: Core values of the project
+    link: /core_values
+
+  - icon: 💽
+    title: Principles
+    details: Principles and policies
+    link: /principles
+
+  - icon: 🤯
+    title: Governance
+    details: Governance and decision making
+    link: /governance
 
   - icon: 🪣
     title: Community
@@ -44,20 +49,25 @@ features:
     details: Legislative development and open source lawmaking
     link: /legislative_development
 
-  - icon: 🧱
-    title: Overview
-    details: Overview of the project
-    link: /overview
-
-  - icon: 💽
-    title: Principles
-    details: Principles and policies
-    link: /principles
-
   - icon: 📦
     title: Reforms
     details: Reform Policies
     link: /composer
+
+  - icon: 📅
+    title: Consumer Protection
+    details: Consumer protection framework
+    link: /consumer_protection
+
+  - icon: 🐞
+    title: Citizens
+    details: All about the people
+    link: /citizens
+
+  - icon: 🎩 
+    title: Executive Leadership
+    details: Executive leadership and decision making
+    link: /executive_leadership
 
   - icon: 🧰
     title: Get Involved
@@ -69,21 +79,7 @@ features:
     details: Contact us
     link: /contact
 
-  - icon: 📅
-    title: Consumer Protection
-    details: Consumer protection framework
-    link: /consumer_protection
-#
-#  - icon: 🐞
-#    title: Debugging
-#    details: Debugging with PhpStorm, DDEV and Xdebug
-#    link: /debugging
-#
-# - icon: 💔
-#   title: Decoupled Drupal
-#   details: REST API, GraphQL, JSONAPI
-#   link: /decoupled
-#
+
 #  - icon: 👩‍💻
 #    title: Development
 #    details: Local setup, creating sites, DDEV, troubleshooting, PHPStorm setup, Xdebug setup, Twig debugging
