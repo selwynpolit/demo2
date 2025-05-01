@@ -12,7 +12,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   head: [
-    ['link', { rel: 'icon', href: '/images/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/demo2/images/favicon.ico' }],
   ],
   //rewrites: {
   //'nodes_n_fields.md': 'nodes-and-fields.md',
