@@ -11,6 +11,8 @@ The core values include: universal human rights, DEI, secular governance, interg
 
 ## Universal Human Rights
 
+The **[Universal Declaration of Human Rights (UDHR)](https://www.un.org/en/about-us/universal-declaration-of-human-rights)** is a foundational pillar of Democracy 2.0. 
+
 At the heart of our vision is the unwavering commitment to universal human rights. This means recognizing that every individual—regardless of race, gender, age, religion, or socioeconomic status—possesses inalienable rights. These rights include freedom from discrimination, access to basic necessities like healthcare, education, and housing, and the dignity and respect every person deserves. By enshrining these rights as the foundation of policy and decision-making, we ensure that every law and public initiative is evaluated with the unwavering standard of human dignity.
 
 ## Diversity, Equity, and Inclusion (DEI)

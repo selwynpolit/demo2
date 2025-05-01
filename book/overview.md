@@ -16,6 +16,8 @@ Much of this comes from a [conversation with Copilot that you can view](guts.md)
 ## **1. Restructuring Leadership & Power**
 - **Rotating Executive Leadership**: A **Council of Leaders**, instead of a single president, with **limited-term authority** and a **rapid-response veto system**.
 - **Citizen Veto Power**: Public digital voting allows **real-time rejection of harmful policies** before they take effect.
+- **AI-Governance Oversight** – A publicly accountable AI system could **track government actions in real-time**, flag violations, and trigger automatic checks.
+- **Mandatory Ethics Testing** – Leaders must pass **psychological and ethical evaluations** before taking office, preventing dangerous individuals from reaching power.
 - **Constitutional Enforcement Unit**: A **nonpartisan force** ensuring leaders **adhere to judicial rulings and democratic principles**.
 
 ## **2. Economic Fairness & Wealth Limits**

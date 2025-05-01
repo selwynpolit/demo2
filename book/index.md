@@ -64,6 +64,11 @@ features:
     details: All about the people
     link: /citizens
 
+  - icon: 🐞
+    title: Constitution
+    details: The Constitution
+    link: /constitution
+    
   - icon: 🎩 
     title: Executive Leadership
     details: Executive leadership and decision making

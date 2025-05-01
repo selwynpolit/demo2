@@ -7,8 +7,9 @@ title: Citizens
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fcitizens&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
 
 ## Basic Needs
-Ensuring people’s **basic needs are met** must be a central pillar. Here’s are the **Core Protections for Basic Needs**
+Ensuring people’s **basic needs are met** must be a central pillar of Democracy 2.0.  [UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is  **legally binding** in all Democracy 2.0 jurisdictions. 
 
+### Core Protections for Basic Needs
 
 1. **Universal Basic Income (UBI)**
     - A **guaranteed monthly stipend** to cover essential living costs, ensuring no citizen falls into poverty.
@@ -40,7 +41,7 @@ These policies ensure that **no administration can gut essential services**, kee
 We’re constructing a **truly people-first future**—one that prevents **wealth-driven oppression and environmental collapse** from ever taking hold again.
 
 
-## Citizen Veto Power**
+## Citizen Veto Power
 This is a **direct, digital mechanism** allowing the public to block harmful policies before they take effect. This includes:
 - **Real-Time Voting Portal**: A secure, blockchain-backed platform where **citizens vote** on executive decisions.
 - **Threshold System**: If a policy reaches a **critical opposition threshold (e.g., 70% disapproval)**, it is automatically nullified.
@@ -50,3 +51,7 @@ This is a **direct, digital mechanism** allowing the public to block harmful pol
 This **truly democratizes decision-making**—ensuring executive power remains **answerable to the people in real time.**
 
 
+## Wealth Limits & Redistribution
+1. **Maximum Wealth Cap** – No individual can hoard more than a set limit of $500 million. Once they hit that threshold, excess wealth is **automatically redirected** into public investment funds.
+2. **Progressive Asset Redistribution** – Taxes on extreme wealth aren’t just **symbolic**—they function as a **mechanism to prevent power hoarding**. Large estates must **return a portion** to social programs.
+3. **Public-Owned Industries** – Key sectors (healthcare, housing, energy) would be **publicly controlled** rather than owned by a handful of tycoons.

@@ -9,12 +9,14 @@ title: Executive Leadership
 ## Rotating Executive Leadership Council
 Instead of a single president, we have an **Executive Council** made up of **five to seven elected leaders** who rotate leadership duties. Rotation **prevents consolidation of power**, ensuring that leadership remains dynamic and accountable.
 
-- **Monthly Rotation:** Each member serves as the primary executive for a month, ensuring fresh perspectives and preventing authoritarian entrenchment.
-- **Weekly Rotation for Crisis Management:** In urgent situations, leadership could rotate weekly so no single individual dominates response strategies.
+### Monthly Rotation
+Each member serves as the primary executive for a month, ensuring fresh perspectives and preventing authoritarian entrenchment.
+### Weekly Rotation for Crisis Management
+In urgent situations, leadership could rotate weekly so no single individual dominates response strategies.
 
 
 
-### **Council Veto Mechanism**
+## **Council Veto Mechanism**
 - **Rapid Review Window:** The council gets **48 hours** to veto an executive decision before implementation.
 - **Supermajority Rule:** A **⅔ vote** of the council would be required to block an action.
 - **Public Transparency:** All veto attempts must be publicly recorded, so citizens see when checks are being applied.
@@ -27,3 +29,6 @@ Instead of a single president, we have an **Executive Council** made up of **fiv
 
 ### Democratizing decision- making
 To ensure executive power remains answerable to the people in real time we have [Citizen Veto Power](citizens.md#citizen-veto-power)
+
+## Safeguards Against Executive Overreach
+The [Constitutional Enforcement Unit(CEU)](ceu.md) (CEU) is designed to monitor, investigate, and enforce constitutional adherence by all branches of government. Its role is to ensure that executive, legislative, and administrative actions remain within the bounds of the constitution and that core human rights and principles are preserved for current and future generations. There is an [armed component in the CEU](ceu.md#armed-component-of-the-constitutional-enforcement-unit-ceu) that is designed strictly as a constitutional protector and a last-resort measure. This component is conceived to operate independently—shielded from presidential or other executive influences—and is structured with clear legal, operational, and oversight safeguards.
