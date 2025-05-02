@@ -99,6 +99,13 @@ features:
     details: Caring justice system
     link: /caring_justice
 
+
+  - icon: 📧
+    title: Technology
+    details: Tools and technology
+    link: /technology
+
+
   - icon: 🧰
     title: Get Involved
     details: Get involved in the project
@@ -112,12 +119,7 @@ features:
 
 
 
-#
-#  - icon: 📧
-#    title: Email
-#    details: Sending emails in Drupal
-#    link: /email
-#
+
 #  - icon: 📚
 #    title: Entities
 #    details: The primary building blocks of Drupal
