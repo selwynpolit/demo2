@@ -50,7 +50,8 @@ If you want to contribute to the expense of creating this book, you can contribu
 
 More at [Contribute](contribute.md).
 
-
+Check out a [flyer](flyer1.md) for the project.
+Check out the [summary](summary.md) of the project.
 
 
 

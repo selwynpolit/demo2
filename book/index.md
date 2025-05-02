@@ -59,12 +59,12 @@ features:
     details: Consumer protection framework
     link: /consumer_protection
 
-  - icon: 🐞
+  - icon: 👩🏽‍🌾 
     title: Citizens
     details: All about the people
     link: /citizens
 
-  - icon: 🐞
+  - icon: 🏢
     title: Constitution
     details: The Constitution
     link: /constitution
@@ -73,6 +73,31 @@ features:
     title: Executive Leadership
     details: Executive leadership and decision making
     link: /executive_leadership
+
+  - icon: 🏛️
+    title: Money
+    details: Money and Finance
+    link: /money
+
+  - icon: 🐘
+    title: Political Dishonesty
+    details: Consequences of political dishonesty and corruption
+    link: /political_dishonesty
+
+  - icon: ☑️
+    title: Implementing
+    details: Implementing the project
+    link: /implementing
+
+  - icon: 👩‍💻
+    title: Immigration
+    details: Human-centric immigration policies
+    link: /immigration
+
+  - icon: ⚖️
+    title: Justice System
+    details: Caring justice system
+    link: /caring_justice
 
   - icon: 🧰
     title: Get Involved
@@ -85,15 +110,8 @@ features:
     link: /contact
 
 
-#  - icon: 👩‍💻
-#    title: Development
-#    details: Local setup, creating sites, DDEV, troubleshooting, PHPStorm setup, Xdebug setup, Twig debugging
-#    link: /development
-#
-#  - icon: ⚙️
-#    title: Drush
-#    details: The amazing essential command line tool that makes everyone\'s life so much better
-#    link: /drush
+
+
 #
 #  - icon: 📧
 #    title: Email

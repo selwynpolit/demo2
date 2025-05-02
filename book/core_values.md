@@ -31,7 +31,16 @@ Inspired by Native American wisdom, particularly the “Seven Generations” pri
 
 The planet is our most precious shared resource, and its stewardship is non-negotiable. Environmental sustainability is about balancing human development with the preservation of nature. It requires policies that protect natural ecosystems, reduce waste and emissions, and promote renewable energy. In our framework, sustainability is integrated into every aspect of governance—from urban planning and resource management to the design of public policies that help mitigate climate change. By prioritizing environmental protection, we ensure that every generation inherits a planet that is vibrant, resilient, and capable of sustaining life in all its diversity.
 
-# The Interconnected Vision
+## Respect for Elders and Collective Wisdom
+Establish advisory councils that include indigenous elders and traditional knowledge keepers. Their roles would be to lend historical perspective, cultural insights, and spiritual guidance to ensure policies honor the land and bolster community resilience over time.
+
+## Sacred Land and Environmental Guardianship
+Treat land as a sacred trust rather than a commodity. Policies governing land use, conservation, and development will be designed to honor the traditional notion of stewardship, respecting the inherent rights of natural spaces to thrive for future generations.
+
+## Cultural Continuity and Resilience
+Support the preservation and revitalization of Native American languages, traditions, and practices as part of the nation’s cultural heritage. This strengthens social cohesion, enriches civic life, and ensures that the wisdom of ancestral ways informs modern governance.
+
+## The Interconnected Vision
 
 These principles are not isolated ideas but interwoven threads in the fabric of our democratic future. Universal human rights provide the moral compass, while DEI ensures that every voice contributes to governance. Secular governance anchors decision-making in empirical, unbiased data, while intergenerational stewardship reminds us that our choices today define the world of tomorrow. Environmental sustainability cements this vision by ensuring that nature and humanity can coexist in a balanced, flourishing relationship.
 
