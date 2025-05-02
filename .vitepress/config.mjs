@@ -67,7 +67,9 @@ export default defineConfig({
         'open_source.md',
         'change_log.md',
         'guts.md',
-        'open_source_trends.md'
+        'open_source_trends.md',
+        'flyer1.md',
+        'summary.md',
       ],
     }),
 
