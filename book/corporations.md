@@ -26,13 +26,16 @@ Global multinational corporations have massive influence over politics, economie
 - Mass Public Education – The transition must be understood by the people—funding for civic education ensures democratic literacy before major changes occur.
 - Incremental Policy Shifts – Rather than sudden upheaval, each component (economic reform, government restructuring, environmental safeguards) is phased in strategically.
 
-This approach ensures a peaceful transition, rather than chaotic power struggles. Should we refine specific areas further, or explore global implementation strategies?
-
+This approach ensures a peaceful transition, rather than chaotic power struggles. 
 
 
 
 ## Corporations are not people
-Corporations are not people and do not have the rights of people. 
+
+
+Below is an expanded discussion outlining how Democracy 2.0 would eliminate the influence of corporate money in politics by overturning Citizens United and legally enshrining the principle that corporations are not people and do not have the rights of people.
+
+
 
 
 ## Eliminating Corporate Influence: Repealing Citizens United and Enshrining “Corporations Are Not People”

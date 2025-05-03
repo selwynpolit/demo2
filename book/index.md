@@ -99,6 +99,10 @@ features:
     details: Caring justice system
     link: /caring_justice
 
+  - icon: 📚
+    title: Constitutional Crises
+    details: Managing and avoiding constitutional crises
+    link: /consitutional_crises
 
   - icon: 📧
     title: Technology
@@ -120,11 +124,7 @@ features:
 
 
 
-#  - icon: 📚
-#    title: Entities
-#    details: The primary building blocks of Drupal
-#    link: /entities
-#
+
 #  - icon: 7️⃣
 #    title: Events
 #    details: Allowing different components of the system to interact and communicate with each other by subscribing and dispatching events.

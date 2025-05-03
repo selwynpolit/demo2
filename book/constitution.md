@@ -117,6 +117,22 @@ We establish this Constitution to:
 3. **Solidarity and Shared Responsibility**
     - Policies and actions are designed to strengthen global partnerships and contribute to the collective well-being of all nations, recognizing our shared challenges and responsibilities.
 
+Below is a proposed clause that you can integrate into your reimagined constitution. It ensures that all government functions, laws, and civil institutions operate on secular principles while safeguarding the right of individuals to freely practice their faith in their private lives.
+
+
+### Article X: Secular Governance and Separation of Religion
+
+1. **Principle of Secularity:**  
+   The State shall be governed on a strictly secular basis. All governmental functions, including the creation, interpretation, and enforcement of laws, shall be based solely on secular and evidence-based principles. No public policy or administrative practice shall derive its authority from any religious doctrine, nor shall any faith or religious institution be accorded preferential status in matters of governance.
+
+2. **Neutrality of the State:**  
+   The State shall maintain complete neutrality with respect to religious doctrines and beliefs. Public institutions, including but not limited to, education, healthcare, law enforcement, and regulatory agencies, shall operate independently of any religious influence. Funding, appointments, and policy decisions related to these institutions must be made exclusively on the basis of merit, public interest, and fiscal accountability, free from any religious considerations.
+
+3. **Right to Private Religious Practice:**  
+   Every citizen shall have the inviolable right to practice, change, or abstain from any religion in their private life. Individuals are guaranteed full freedom to observe and express their faith privately, without imposition, coercion, or preferential treatment by the State. The State shall protect this right and ensure that private religious practices and expressions are respected as a matter of personal freedom.
+
+4. **Prohibition of Religious Endorsement:**  
+   Under no circumstance shall any aspect of government policy, national legislation, or state-sponsored initiative endorse, promote, or require adherence to any religious belief as a prerequisite for participation in civic life. All religious symbols, texts, or doctrines shall be treated as personal and community matters, separate from the legal and public domains.
 
 ## Bill of Rights and Foundational Amendments
 1. **Fundamental Freedoms**
@@ -129,7 +145,8 @@ We establish this Constitution to:
     - Citizens' digital lives are protected with strict regulations on data collection, personal data ownership, and cybersecurity.
 5. **Institutional Accountability**
     - Government and corporate actors found intentionally misleading or harming the public face severe financial, criminal, and professional consequences, ensuring accountability at every level.
-
+6. **Equality of Belief:**
+    - Guarantee that all citizens, regardless of religious affiliation (or lack thereof), are treated equally. This prevents the political system from endorsing one religion over another or influencing policy to favor any particular set of beliefs.
 
 
 This reimagined Constitution envisions a system where governance is not only centered on protecting and promoting individual rights but is also actively designed to foster inclusion, innovation, and environmental stewardship. By enshrining the UDHR and DEI principles at every level—from individual rights to international relations—we create a framework designed to empower the people, protect our planet, and ensure that every voice is heard and valued.

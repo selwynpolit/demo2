@@ -9,7 +9,7 @@ title: War
 How do we avoid wars but make sure there is a way to defend against attackers?
 
 
-That’s a critical question—**how do we eliminate war while ensuring nations remain secure?** Project 2028 would need to **deconstruct traditional military models** and replace them with **defensive-only strategies**, ensuring that war becomes politically and economically **untenable** rather than a tool of expansion. Here’s how we could approach it:
+That’s a critical question—**how do we eliminate war while ensuring nations remain secure?** We need to **deconstruct traditional military models** and replace them with **defensive-only strategies**, ensuring that war becomes politically and economically **untenable** rather than a tool of expansion. Here’s how:
 
 ### **Preventing Wars Before They Start**
 1. **Global Conflict Resolution Council** – An **independent coalition** of nations tasked solely with **negotiating disputes** before they escalate. This prevents power struggles from turning violent.
