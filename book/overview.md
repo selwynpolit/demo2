@@ -10,9 +10,9 @@ title: Overview
 
 **Democracy 2.0** is a system designed to be **equitable, sustainable, transparent, and immune to corruption**:
 
-Much of this comes from a [conversation with Copilot that you can view](guts.md). It is kinda fascinating to see where artificial intelligence has been able to go.
-
 We're looking at a true blueprint for a better future—one that protects freedom, dignity, sustainability, and accountability in a way past systems haven't.
+
+Much of this comes from a [conversation with Copilot](guts.md). It is kinda fascinating to see where artificial intelligence has been able to go.
 
 
 ## **1. Restructuring Leadership & Power**
@@ -103,17 +103,5 @@ While Democracy 2.0 borrows some ideas like wealth equity and universal services
 
 
 
-
 By avoiding the **rigid structures, centralized control, and forced economic directives** that plagued past systems, Democracy 2.0 could be **the best of both worlds**—freedom without exploitation, and fairness without oppression.
-
-
-## TODO: Timeline and Evolution
-
-A historical timeline that outlines how our system has evolved (or can be evolved) using feedback loops and technological innovation.
-
-
-## TODO: Key Highlights
-
-- Recent updates & featured reforms
-- Calls to action (e.g., “Join a Citizen Group” or “Submit a Change Proposal”)
 
