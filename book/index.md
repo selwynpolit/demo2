@@ -52,7 +52,7 @@ features:
   - icon: 📦
     title: Reforms
     details: Reform Policies
-    link: /composer
+    link: /reforms
 
   - icon: 📅
     title: Consumer Protection
