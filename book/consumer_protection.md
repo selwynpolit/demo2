@@ -143,7 +143,7 @@ This framework ensures consumers are **protected, informed, and empowered** whil
 
 ## Consumer Protection Measures
 
-Absolutely! **Consumer protection** and **truth enforcement** are essential pillars for Democracy 2.0. Here’s how we could integrate them into the system:
+**Consumer protection** and **truth enforcement** are essential pillars for Democracy 2.0. Here’s how we could integrate them into the system:
 
 ### **Consumer Protection Measures**
 1. **Universal Fair Pricing** – Corporations must disclose **true cost breakdowns** so consumers **never** get exploited by hidden fees.
