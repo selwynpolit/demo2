@@ -47,9 +47,9 @@ These principles are not isolated ideas but interwoven threads in the fabric of 
 Together, these principles form the foundation of Democracy 2.0—a system where people, communities, and the planet are prioritized, innovations are celebrated, and every policy reflects a commitment to long-term, inclusive well-being. This approach not only protects our current freedoms but builds a resilient, dynamic framework for the future, ensuring that our democracy evolves alongside our deepest values.
 
 
-## Permaculture Ethics and Principles
+## Permaculture based Ethics
 
-Below is a detailed proposal on how the principles and ethics of permaculture can be integrated into Democracy 2.0, using permaculture’s core philosophies as a metaphor—and as concrete guiding principles—for creating a resilient, regenerative, and community-centered governance system.
+Below is a detailed proposal on how the ethics of permaculture can be integrated into Democracy 2.0, using permaculture’s core philosophies as a metaphor—and as concrete guiding principles—for creating a resilient, regenerative, and community-centered governance system.
 
 
 
@@ -83,22 +83,7 @@ Permaculture is founded on ethics like **Earth Care**, **People Care**, and **Fa
     - **Closed-Loop Systems in Government:**
         - Integrate feedback mechanisms that “reinvest” the collective gains from community projects back into the system, fostering continuous improvement (akin to minimal waste strategies and resource recycling in permaculture).
 
-### 4. **Design Principles: Observation, Integration, and Iteration**
 
-- **Holistic and Adaptive Governance:**
-    - **Observation and Feedback:**
-        - Incorporate continuous feedback systems (e.g., direct impact dashboards) that monitor the outcomes of policies in real time. These data help planners adjust policies based on real-world impacts—similar to how permaculture practitioners observe natural patterns to fine-tune their designs.
-    - **Integration, Not Segregation:**
-        - Design policies and community programs that dissolve silos between different sectors (environment, economics, social welfare). Integrated planning ensures that solutions are multifaceted and benefit the entire community.
-    - **Small and Slow Solutions:**
-        - Encourage localized, gradual improvements rather than one-size-fits-all mandates. This principle respects the idea that sustainable change takes time and must be built through iterative, community-driven efforts.
-
-### 5. **Community as an Ecosystem**
-
-- **Local Citizen Groups as Permaculture Guilds:**
-    - Just as permaculture guilds bring together different plant species to support a thriving ecosystem, local citizen groups can pool diverse perspectives, skills, and resources to build robust communities.
-    - **Inter-Community Collaboration:**
-        - Create platforms where these groups can share their experiences, compare best practices for sustainability, and collaborate on projects that have both local and national impact.
 
 
 ### Conclusion
