@@ -180,7 +180,7 @@ This makes human rights **central to governance**, not just aspirational goals.
 This creates a system where human rights aren't just protected—they're **actively enforced and expanded**. Should we add more protections or detail any area further?
 
 ## Direct Feedback
-Below is a proposal for a **Direct Impact Feedback System** designed to empower every citizen by transparently showing how their participation makes a difference—while ensuring their anonymity and protecting against surveillance.
+Below is a proposal for a **Direct Impact Feedback System** designed to empower every citizen by transparently showing how their participation makes a difference while ensuring their anonymity and protecting against surveillance.
 
 ### **1. The Direct Impact Feedback Platform**
 

@@ -86,7 +86,7 @@ By embedding these measures within the framework of Democracy 2.0, future techno
 
 
 ## Data Privacy Protection
-Additional thoughts on data privacy protection in the context of Democracy 2.0:
+Data privacy protection for Democracy 2.0:
 
 ### **1. Decentralized Data Architecture**
 

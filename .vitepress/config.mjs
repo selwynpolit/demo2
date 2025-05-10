@@ -69,6 +69,7 @@ export default defineConfig({
         'guts.md',
         'open_source_trends.md',
         'flyer1.md',
+        'ranked_choice_voting.md',
         'summary.md',
       ],
     }),
