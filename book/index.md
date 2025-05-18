@@ -36,7 +36,7 @@ features:
 
   - icon: 🤯
     title: Governance
-    details: Governance and decision making
+    details: Governance (overseeing control & direction) and decision making
     link: /governance
 
   - icon: 🪣
