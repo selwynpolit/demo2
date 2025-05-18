@@ -18,9 +18,9 @@ Transparency is at the heart of Democracy 2.0. We use [open source technologies]
 
 Finally, by embracing open source methods, we tap into the collective genius of communities, developers, legal experts, and everyday citizens. Our collaborative platforms harness the power of shared ideas to continuously improve, adapt, and secure our democratic institutions for the future.
 
-Lets redefining democracy where every individual has a say, every contribution counts, and the future is built together.
+Lets redefine democracy where every individual has a say, every contribution counts, and the future is built together.
 
-Jump to the [overview](overview.md) of the project or [get involved](get_involved.md) in shaping the future of governance.
+Jump right to the [overview](overview.md) of the project or [get involved](get_involved.md) in shaping the future of governance.
 
 
 ## Origin

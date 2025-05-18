@@ -13,7 +13,7 @@
   "devDependencies": {
     "@nolebase/vitepress-plugin-enhanced-readabilities": "2.15.0",
     "prettier": "^3.5.3",
-    "sass": "^1.87.0",
+    "sass": "^1.89.0",
     "viewerjs": "^1.11.7",
     "vitepress": "1.6.3",
     "vitepress-plugin-back-to-top": "^1.0.1",
@@ -22,7 +22,7 @@
     "vitepress-plugin-image-viewer": "^1.1.6",
     "vitepress-plugin-tabs": "^0.6.0",
     "vitepress-sidebar": "^1.31.1",
-    "vue": "^3.5.13"
+    "vue": "^3.5.14"
   },
   "packageManager": "pnpm@9.15.5",
   "engines": {

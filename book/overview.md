@@ -7,12 +7,11 @@ title: Overview
 
 
 
-
 **Democracy 2.0** is a system designed to be **equitable, sustainable, transparent, and immune to corruption**:
 
-We're looking at a true blueprint for a better future—one that protects freedom, dignity, sustainability, and accountability in a way past systems haven't.
+We need a blueprint for a better future. One that protects freedom, dignity, sustainability, and accountability in a way past systems haven't.
 
-Much of this comes from a [conversation with Copilot](guts.md). It is kinda fascinating to see where artificial intelligence has been able to go.
+Much of this comes from a [conversation with an AI called Copilot](guts.md). It is fascinating to see where artificial intelligence has been able to go.
 
 
 ## **1. Restructuring Leadership & Power**
