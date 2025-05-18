@@ -2,7 +2,6 @@
 
 **People-Powered | Transparent | Future-Proof**
 
----
 
 ## Are You Ready for Change?
 
@@ -13,7 +12,6 @@ Imagine a society where:
 
 Democracy 2.0 is our blueprint to build that future. It’s a bold vision that puts people at the center, protects our rights, and adapts to tomorrow’s challenges.
 
----
 
 ## Our Core Pillars
 
@@ -34,7 +32,6 @@ Democracy 2.0 is our blueprint to build that future. It’s a bold vision that p
 - **Worker Protection in Automation:** As new technologies emerge, displaced workers receive ongoing training, financial support, and new job opportunities.
 - **Decentralized Data Ownership:** You own your personal data, preventing exploitation by governments or corporations.
 
----
 
 ## Why This Matters
 
@@ -42,7 +39,6 @@ Democracy 2.0 is our blueprint to build that future. It’s a bold vision that p
 - **Innovation & Adaptability:** We leverage open source approaches to keep our democracy dynamic and responsive.
 - **Resilience:** By protecting workers, promoting human rights, and safeguarding data, we future-proof our society against the challenges of a rapidly changing world.
 
----
 
 ## Join the Conversation
 
@@ -54,4 +50,15 @@ We invite activists, innovators, policy-makers, and everyday citizens to explore
 - **Learn More:** Visit our website for in-depth resources, upcoming events, and ways to participate.
 
 [Visit Our Democracy 2.0 Website](https://selwynpolit.github.io/demo2)  
+
+https://bit.ly/4doVG81
+
+![QR Code](/images/qrcode.svg){style="display:block; margin-left:auto; margin-right:auto; width:25%;"}
+
 _Your voice creates real change. Let’s build a future that reflects our highest ideals!_
+
+
+
+
+
+

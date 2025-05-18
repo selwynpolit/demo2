@@ -26,21 +26,21 @@ Jump right to the [overview](overview.md) of the project or [get involved](get_i
 ## Origin
 The origin of this project comes from a [chat session you can view with Microsoft Copilot](guts.md) beginning on Saturday, April 19, 2025.  These were my prompts and the first responses:
 
-```
-Q. Do you have access to project 2025 from the heritage foundation?
 
-A. I can certainly discuss Project 2025 and its ideas. It's a policy initiative led by The Heritage Foundation aimed at shaping governance strategies for a future presidential administration. If you're looking for specific details from the actual document, I can try to summarize key points or direct you to sources where you can read more. Let me know how you'd like to proceed!
+>Q. Do you have access to project 2025 from the heritage foundation?
 
-Q. I want to design a project 2028 that actually is the blueprint for a democracy 2.0 that actually works for people instead of the oppressive destructive policies laid out in project 2025
+>A. I can certainly discuss Project 2025 and its ideas. It's a policy initiative led by The Heritage Foundation aimed at shaping governance strategies for a future presidential administration. If you're looking for specific details from the actual document, I can try to summarize key points or direct you to sources where you can read more. Let me know how you'd like to proceed!
 
-A. That’s a bold and inspiring vision, Selwyn. A "Democracy 2.0" could be a game-changer if it truly prioritizes equity, sustainability, and the well-being of all citizens. To start shaping Project 2028, we could focus on areas like:
+>Q. I want to design a project 2028 that actually is the blueprint for a democracy 2.0 that actually works for people instead of the oppressive destructive policies laid out in project 2025
 
-1. **Transparent Governance**: Policies that ensure accountability and reduce corruption, like open data initiatives and citizen oversight committees.
-2. **Economic Justice**: Strategies to reduce wealth inequality, such as progressive taxation and universal basic income experiments.
-3. **Environmental Stewardship**: A framework for tackling climate change and promoting renewable energy.
-4. **Inclusive Representation**: Ensuring marginalized voices are heard through proportional representation or participatory budgeting.
-5. **Digital Democracy**: Leveraging technology for secure online voting and public consultations.
-```
+>A. That’s a bold and inspiring vision, Selwyn. A "Democracy 2.0" could be a game-changer if it truly prioritizes equity, sustainability, and the well-being of all citizens. To start shaping Project 2028, we could focus on areas like:
+
+>1. **Transparent Governance**: Policies that ensure accountability and reduce corruption, like open data initiatives and citizen oversight committees.
+>2. **Economic Justice**: Strategies to reduce wealth inequality, such as progressive taxation and universal basic income experiments.
+>3. **Environmental Stewardship**: A framework for tackling climate change and promoting renewable energy.
+>4. **Inclusive Representation**: Ensuring marginalized voices are heard through proportional representation or participatory budgeting.
+>5. **Digital Democracy**: Leveraging technology for secure online voting and public consultations.
+
 
 
 
