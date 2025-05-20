@@ -6,18 +6,27 @@ title: Legislative Development
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Flegislative_development&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
 
-## Open Source Lawmaking
-A dedicated section detailing the iterative process of lawmaking through open source collaboration.
+## Open Source Lawmaking Overview
+This covers the iterative process of making laws through open source collaboration.
 
-Documentation & Roadmap: A living document in Markdown that tracks proposals, revisions, and milestones.
+**Documentation & Roadmap**: A living document in Markdown that tracks proposals, revisions, and milestones.
 
-Pull Request Process: Clear guidelines for citizens to submit and discuss proposed changes.
+**[Bias Reduction](bias_reduction)**: A set of guidelines, safeguards and continuous improvement to ensure that the drafting process is inclusive and considers diverse perspectives.
+
+**Pull Request Process**: A clear intuitive process for citizens to participate in the legal development process by submitting and discussing proposed changes.
+
+::: tip Note
+A pull request is a proposal to merge a set of changes to a document(s) (or programming code). In a pull request, collaborators can review and discuss the proposed set of changes before they integrate the changes into the main content. Pull requests display the differences, between the content in the source documents and the target documents.
+:::
+
+
+
 
 ## Issue Tracker & Change Logs 
-  A dynamic feed where users can see current proposals, comment on draft laws, and follow changes over time.
+This defines a dynamic feed where users can see current proposals, comment on draft laws, and follow changes over time. It can be designed with AI tools to highlight key issues, trends, and to summarize and simplify changes.
 
 ## Constitutional Integration
-- [UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is legally binding in all Democracy 2.0 jurisdictions
+- [UDHR - Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is legally binding in all Democracy 2.0 jurisdictions
 - All new laws must pass a **Human Rights Impact Assessment**
 - **Automatic judicial review** of any policy that might impact fundamental rights
 - Creation of **Human Rights Enforcement Courts** with real power
@@ -25,7 +34,7 @@ Pull Request Process: Clear guidelines for citizens to submit and discuss propos
 
 ## Legislative Development Process
 
-One powerful way to modernize laws is to develop them using an open source, transparent process. This approach leverages collaborative technology platforms—and, when appropriate, integrates commercial solutions—to ensure laws are clear, inclusive, and subject to continual public review.
+One powerful way to modernize laws is to develop them using an open source, transparent process. This approach leverages collaborative open-source technology platforms—and, when appropriate, integrates commercial solutions—to ensure laws are clear, inclusive, and subject to continual public review.
 
 
 ### **1. Collaborative Legal Drafting Platforms**

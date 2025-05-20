@@ -11,7 +11,6 @@ title: FAQ
 ## What is Democracy 2.0?
 **Democracy 2.0** is a forward-thinking governance framework that redefines democratic participation. It prioritizes universal human rights, direct citizen involvement, transparency, and technological innovation through open source methods. Our vision is to create a system where every voice is heard and every decision is made in the best long-term interest of our communities and the environment.
 
----
 
 ## What are the core principles of Democracy 2.0?
 Our framework is built on several interwoven principles:
@@ -21,7 +20,6 @@ Our framework is built on several interwoven principles:
 - **Intergenerational Stewardship:** Incorporating Native American “Seven Generations” principles to ensure decisions benefit future generations.
 - **Environmental Sustainability:** Balancing development with the preservation of our natural ecosystems.
 
----
 
 ## How does open source influence Democracy 2.0?
 Open source is at the heart of our approach:
@@ -29,7 +27,6 @@ Open source is at the heart of our approach:
 - **Collaboration:** We encourage contributions from citizens, developers, and experts to continuously improve our system.
 - **Innovation:** Open source methodologies help integrate cutting-edge technologies for secure, efficient governance.
 
----
 
 ## What does the open source lawmaking process look like?
 Our open source lawmaking platform works like a “GitHub for Laws”:
@@ -37,7 +34,6 @@ Our open source lawmaking platform works like a “GitHub for Laws”:
 - **Citizen Contributions:** Anyone can propose edits or changes via pull requests.
 - **Public Issue Tracker:** Users can log feedback, leave comments, and track legislative progress in real time.
 
----
 
 ## How can I contribute or make a change suggestion?
 We welcome your input!
@@ -45,7 +41,6 @@ We welcome your input!
 - **Feedback Form:** Use our online submission form to share your ideas or raise concerns.
 - **Join the Discussion:** Participate in our forums or town hall meetings to engage directly with fellow citizens and policymakers.
 
----
 
 ## How do local communities participate in Democracy 2.0?
 We empower communities to drive local change:
@@ -53,7 +48,6 @@ We empower communities to drive local change:
 - **Starting a Group:** Detailed guidelines and templates help you launch and manage a community group.
 - **Regional Collaboration:** Inter-community hubs allow for knowledge sharing, joint projects, and regional problem-solving.
 
----
 
 ## What measures protect data privacy and security?
 Data privacy is foundational to our system:
@@ -62,7 +56,6 @@ Data privacy is foundational to our system:
 - **Advanced Encryption:** End-to-end encryption, zero-knowledge proofs, and differential privacy protect all interactions.
 - **Regular Audits:** Open source audits and independent security reviews ensure that our systems remain secure and trustworthy.
 
----
 
 ## How is transparency maintained in decision-making?
 Transparency is achieved through:
@@ -70,7 +63,6 @@ Transparency is achieved through:
 - **Direct Impact Feedback:** Citizens can view an ongoing dashboard that shows how their contributions shape policy outcomes.
 - **Public Auditing:** Independent oversight bodies review government actions, and audit reports are accessible to everyone.
 
----
 
 ## How does Democracy 2.0 safeguard against constitutional crises and rights rollbacks?
 Our framework includes several preemptive and corrective mechanisms:
@@ -79,7 +71,6 @@ Our framework includes several preemptive and corrective mechanisms:
 - **Multi-Layered Oversight:** Independent committees monitor government actions and can initiate investigations or removal processes if necessary.
 - **Immutable Human Rights:** Core rights—such as reproductive rights—are protected against rollbacks by embedding irreversible protections into our legal framework.
 
----
 
 ## What benefits does the “Seven Generations” principle offer?
 Rooted in Native American wisdom, this principle asks us to consider:
@@ -87,7 +78,6 @@ Rooted in Native American wisdom, this principle asks us to consider:
 - **Sustainable Growth:** By planning for seven generations, we ensure robust environmental stewardship and social well-being.
 - **Intergenerational Equity:** Every decision respects the legacy we leave to our children and grandchildren.
 
----
 
 ## How does Democracy 2.0 ensure secular governance?
 We maintain secular governance by:
@@ -95,7 +85,6 @@ We maintain secular governance by:
 - **Evidence-Based Policy:** Decisions are made based on data, human rights principles, and rational, inclusive dialogue rather than religious dogma.
 - **Equal Representation:** Faith-based organizations can influence civil society, but they are kept separate from formal state functions and policymaking.
 
----
 
 ## Who can I contact if I have more questions?
 We’re here to help:
@@ -103,7 +92,6 @@ We’re here to help:
 - **Community Forums:** Join our discussion boards for real-time support from fellow citizens and Democracy 2.0 moderators.
 - **Email:** Send your inquiries to [TODOinfo@democracy2-0.org](mailto:info@democracy2-0.org).
 
----
 
-This FAQ is designed to answer your most common questions about Democracy 2.0 and explain how our system works in a clear and accessible manner. If you have any additional questions or suggestions for new FAQ entries, please let us know through our feedback channels.
+This FAQ is designed to answer common questions about Democracy 2.0 and explain how our system works in a clear and accessible manner. If you have any additional questions or suggestions for new FAQ entries, please let us know through our feedback channels.
 
