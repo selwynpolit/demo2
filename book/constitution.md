@@ -150,3 +150,11 @@ We establish this Constitution to:
 This reimagined Constitution envisions a system where governance is not only centered on protecting and promoting individual rights but is also actively designed to foster inclusion, innovation, and environmental stewardship. By enshrining the UDHR and DEI principles at every level—from individual rights to international relations—we create a framework designed to empower the people, protect our planet, and ensure that every voice is heard and valued.
 
 
+## Key Differences from the Original Constitution
+
+Our revamped constitution differs sharply from the actual U.S. Constitution in both scope and emphasis. While the U.S. Constitution primarily establishes the structure of government, federalism, and a system of checks and balances, we focus on enumerating a broad array of individual rights and social guarantees. We explicitly include modern protections such as digital privacy, universal healthcare, a living wage, environmental rights, and strong anti-discrimination measures—areas that the U.S. Constitution either omits or addresses only through later amendments and judicial interpretation.
+
+Additionally, we take a more proactive stance on secularism, corporate accountability, and technological regulation, mandating strict separation of religion from government and imposing transparency requirements on corporations. In contrast, the U.S. Constitution is more limited in its language regarding religion and does not address corporate conduct or digital rights. 
+
+Overall, this consitution represent contemporary values and social priorities, whereas the U.S. Constitution remains anchored in 18th-century concerns about government power and individual liberty, with fewer explicit guarantees of economic and social rights.
+
