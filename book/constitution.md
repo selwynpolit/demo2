@@ -117,8 +117,6 @@ We establish this Constitution to:
 3. **Solidarity and Shared Responsibility**
     - Policies and actions are designed to strengthen global partnerships and contribute to the collective well-being of all nations, recognizing our shared challenges and responsibilities.
 
-Below is a proposed clause that you can integrate into your reimagined constitution. It ensures that all government functions, laws, and civil institutions operate on secular principles while safeguarding the right of individuals to freely practice their faith in their private lives.
-
 
 ### Article X: Secular Governance and Separation of Religion
 
