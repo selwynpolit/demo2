@@ -39,6 +39,11 @@ features:
     details: Governance (overseeing control & direction) and decision making
     link: /governance
 
+  - icon: 🏛️
+    title: Constitutional Enforcement Unit
+    details: Monitor, investigate, and enforce constitutional adherence by all branches of government
+    link: /ceu
+
   - icon: 🪣
     title: Community
     details: Community and citizen groups
