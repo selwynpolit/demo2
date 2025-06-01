@@ -8,19 +8,38 @@ title: About
 
 Democracy 2.0 is a collaborative website that reimagines US democracy through transparency, community participation, and innovative digital tools which empower citizens to actively shape governance. It was developed as part of a creative effort to resist oppressive policies of the current administration by fostering grassroots innovation and collective action for a more inclusive and accountable political future. Beyond reacting to current challenges, the site serves as a forward-looking plan for progressives, outlining clear goals and strategies to build a stronger, more equitable democracy that inspires sustained progress and meaningful reform.
 
-## Welcome to Democracy 2.0
+## Welcome
 
 **Democracy 2.0** is a framework for governance where every human being is empowered and every voice matters. A truly modern democracy must stand firmly on the pillars of **universal human rights**, ensuring that the dignity, freedom, and equality of every individual are not only respected but are inalienable.
 
 **Democracy 2.0** is built on **direct citizen involvement**. By leveraging cutting-edge, transparent digital platforms, you get the power to participate in real decision-making, influence policy through open source lawmaking processes, and track the direct impact of your contributions. Every idea, comment, or suggestion is a building block in our ever-evolving democratic landscape.
 
-Transparency is at the heart of Democracy 2.0. We use [open source technologies](open_source.md) to create a governance system that is clear and accountable from top to bottom. Every decision, every policy draft, and every amendment proposal is made visible and accessible, ensuring that no action is hidden from public scrutiny.
+**Transparency** is at the heart of Democracy 2.0. We use [open source technologies](open_source.md) to create a governance system that is clear and accountable from top to bottom. Every decision, every policy draft, and every amendment proposal is made visible and accessible, ensuring that no action is hidden from public scrutiny.
 
-Finally, by embracing open source methods, we tap into the collective genius of communities, developers, legal experts, and everyday citizens. Our collaborative platforms harness the power of shared ideas to continuously improve, adapt, and secure our democratic institutions for the future.
+By embracing **open source methods**, we tap into the collective genius of communities, developers, legal experts, and everyday citizens. Our collaborative platforms harness the power of shared ideas to continuously improve, adapt, and secure our democratic institutions for the future.
 
-Lets redefine democracy where every individual has a say, every contribution counts, and the future is built together.
+## Get Involved
+Print out the [Democracy 2.0 flyer](flyer1.md) and share it with your friends, family, and community. Help spread the word about this project and its vision for a better democracy.
+
+Also we have a [Summary](summary.md) of the project that you can share with others to help them understand the key concepts and goals of Democracy 2.0.
+
+
+
+
+## Where to from here?
 
 Jump right to the [overview](overview.md) of the project or [get involved](get_involved.md) in shaping the future of governance.
+
+
+
+## Size of Government
+Size of government is important. For a perspective, check out [Ezra Klein](https://en.wikipedia.org/wiki/Ezra_Klein) being interviewed by [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) on the topic of government size and its impact on society.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pWd61FEMMIY?si=aQyRzlAwcvM-SUv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 
 ## Origin
@@ -43,11 +62,6 @@ The origin of this project comes from a [chat session you can view with Microsof
 
 
 
-
-
-
-Check out a [flyer](flyer1.md) for the project.
-Check out the [summary](summary.md) of the project.
 
 
 
