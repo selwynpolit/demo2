@@ -88,4 +88,8 @@ export default defineConfig({
         '  </a><br></span>',
     },
   },
+  sitemap: {
+    hostname: 'https://demo2.fun',
+    lastmodDateOnly: false // Includes exact timestamps
+  },
 });
