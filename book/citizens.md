@@ -7,7 +7,7 @@ title: Citizens
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fcitizens&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
 
 ## Basic Needs
-Ensuring people’s **basic needs are met** must be a central pillar of Democracy 2.0.  [UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is  **legally binding** in all Democracy 2.0 jurisdictions. 
+Ensuring people’s **basic needs are met** must be a central pillar of Democracy 2.0.  The [Universal Declaration of Human Rights - UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is  **legally binding** in all Democracy 2.0 jurisdictions. 
 
 ### Core Protections for Basic Needs
 
@@ -58,10 +58,10 @@ This **truly democratizes decision-making**—ensuring executive power remains *
 
 ## Universal Declaration of Human Rights (UDHR)
 
-Making the **Universal Declaration of Human Rights (UDHR)** a foundational pillar of Democracy 2.0 ensures we're building on established human rights principles. Here's how we could integrate it:
+Making the **Universal Declaration of Human Rights ([UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights))** a foundational pillar of Democracy 2.0 ensures we're building on established human rights principles. Here's how we could integrate it:
 
 ### **1. Constitutional Integration**
-- UDHR becomes **legally binding** in all Democracy 2.0 jurisdictions
+- [UDHR](https://www.un.org/en/about-us/universal-declaration-of-human-rights) becomes **legally binding** in all Democracy 2.0 jurisdictions
 - All new laws must pass a **Human Rights Impact Assessment**
 - **Automatic judicial review** of any policy that might impact fundamental rights
 - Creation of **Human Rights Enforcement Courts** with real power

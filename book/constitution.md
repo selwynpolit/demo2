@@ -145,7 +145,8 @@ We establish this Constitution to:
     - Government and corporate actors found intentionally misleading or harming the public face severe financial, criminal, and professional consequences, ensuring accountability at every level.
 6. **Equality of Belief:**
     - Guarantee that all citizens, regardless of religious affiliation (or lack thereof), are treated equally. This prevents the political system from endorsing one religion over another or influencing policy to favor any particular set of beliefs.
-
+7. **Explicit Secularism:**
+    - Mandate the separation of religion from government functions, ensuring that laws and policies are based on secular principles and evidence rather than religious doctrines. This includes prohibiting religious groups from influencing public policy or receiving preferential treatment in government matters.
 
 This reimagined Constitution envisions a system where governance is not only centered on protecting and promoting individual rights but is also actively designed to foster inclusion, innovation, and environmental stewardship. By enshrining the UDHR and DEI principles at every level—from individual rights to international relations—we create a framework designed to empower the people, protect our planet, and ensure that every voice is heard and valued.
 

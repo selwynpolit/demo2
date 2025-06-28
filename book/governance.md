@@ -6,12 +6,17 @@ title: Governance
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fgovernance&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
 
-Governance is where digital innovation meets pure citizen empowerment. We safeguard your data with decentralized security and offer a fully transparent, open-source legislative platform that turns lawmaking into a collaborative process. Our advanced digital voting system, featuring ranked choice and real-time feedback, ensures every voice is heard, while a secular framework—free of religious language in government and education—keeps policy focused solely on the people's needs.
+Governance is where digital innovation meets citizen empowerment. We safeguard your data with decentralized security and offer a fully transparent, open-source legislative platform that turns lawmaking into a collaborative process. Our advanced digital voting system, featuring ranked choice and real-time feedback, ensures every voice is heard, while a secular framework—free of religious language in government and education—keeps policy focused solely on the people's needs.
 
 ## Data Privacy & Security  
   In Democracy 2.0, your personal data is protected through a state-of-the-art, decentralized framework that puts you in control. Our system leverages decentralized storage to ensure that no single entity holds all the power over your personal information; instead, data is distributed across secure, independent nodes. This approach is complemented by self-sovereign identity systems that empower you to manage and control your credentials without relying on third-party intermediaries. [End-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) safeguards every communication and transaction, ensuring that sensitive information remains accessible only to you and those you authorize.
 
   To reinforce these measures, advanced cryptographic techniques like [zero-knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) enable the verification of data without exposing underlying details, preserving your privacy while maintaining trust. Rigorous, transparent audit systems are in place to continuously monitor and verify the integrity of our security protocols. Together, these technologies create a robust ecosystem where your data privacy and security are not just priorities but foundational elements of our governance framework.  [More about data privacy](technology#data-privacy-protection)
+
+
+![Governance Ecosystem Diagram](/images/governance_ecosystem_diagram.png){style="display:block; margin-left:auto; margin-right:auto; width:85%;"}
+
+
 
 ## Open Source Legislative Platform  
   The “GitHub for Laws” approach, version-controlled legal drafting, public issue tracking, and [citizen feedback](citizens#direct-feedback) integrated with commercial best-of-breed tools.
@@ -25,8 +30,8 @@ Governance is where digital innovation meets pure citizen empowerment. We safegu
 we explicitly enshrine the separation of religious institutions from government as one of Democracy 2.0’s core principles. This not only protects individual freedoms but also ensures that government decisions remain based on human rights, scientific evidence, and shared community values rather than on any specific religious doctrine.
 
 
-- **Explicit Secular Clause:**  
-  Include a clause in the reimagined Constitution stating that government, laws, and civil institutions operate on secular principles. This clause would ensure that no religious doctrine is given preferential treatment or used as a basis for lawmaking, while still protecting the right of individuals to practice their faith privately.
+- **Explicit Secularism:**  
+  Government, laws, and civil institutions operate on secular principles. No religious doctrine is given preferential treatment or used as a basis for lawmaking, while still protecting the right of individuals to practice their faith privately.
 
 - **Equality of Belief:**  
   Guarantee that all citizens, regardless of religious affiliation (or lack thereof), are treated equally. This prevents the political system from endorsing one religion over another or influencing policy to favor any particular set of beliefs.
@@ -67,7 +72,18 @@ Implementing these measures would help ensure that Democracy 2.0 remains a gover
 
 ## Ranked Choice Voting
 
-[Ranked Choice Voting(RCV)](#ranked-choice-voting) allows voters to rank candidates in order of preference rather than selecting just one. This method can lead to more representative outcomes and encourages a broader range of candidates to run for office.
+[Ranked Choice Voting(RCV)](https://fairvote.org/our-reforms/ranked-choice-voting/) allows voters to rank candidates in order of preference rather than selecting just one. This method can lead to more representative outcomes and encourages a broader range of candidates to run for office.
+
+
+
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq7N2hmX9FI?si=N4kQXkD5KiY_JGVl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
 
 Below is an explanation of how Ranked Choice Voting (RCV) can be integrated into Democracy 2.0.
 
@@ -112,7 +128,7 @@ Incorporating Ranked Choice Voting into Democracy 2.0 reinforces our commitment 
 
 ## Removing Religious Language from Government and Education
 
-In reimagining the democratic system and all associated governmental and educational activities, we can remove and avoid any religious invocations such as the phrase "so help me God." Instead, we will replace such language with a **secular, inclusive affirmation** that reflects our commitment to shared human values and the principles of Democracy 2.0. Here’s how this can be implemented:
+In reimagining the democratic system and all associated governmental and educational activities, we propose removing and avoiding any religious invocations such as the phrase "so help me God." Instead, we replace such language with a **secular, inclusive affirmation** that reflects our commitment to shared human values and the principles of Democracy 2.0. Here’s how:
 
 
 ### **1. Redefining Oaths of Office and Public Affirmations**
