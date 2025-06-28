@@ -9,7 +9,7 @@ title: Overview
 
 ## Mission
 
-To reimagine governance as a transparent, inclusive, and equitable open-source ecosystem—supporting an adaptive democratic process through digital accessibility, regenerative design, and sustained public engagement.
+To reimagine governance as a transparent, inclusive, and equitable [open-source](https://en.wikipedia.org/wiki/Open_source) ecosystem—supporting an adaptive democratic process through digital accessibility, regenerative design, and sustained public engagement.
 
 ## Genesis
 
@@ -50,9 +50,52 @@ Our next steps will be to host a Launch jam to start building our first steering
 
 Democracy 2.0 is not a static blueprint, but a living, evolving framework. It will advance through iterative cycles, with regular reviews (of design, testing and feedback) and opportunities for community input. Each phase will be documented and refined based on stakeholder feedback.
 
+## Basics
+
+### What is Politics?
+
+Politics is the process of making decisions that apply to members of a group. It involves the distribution of power, resources, and responsibilities within a society. Politics can take many forms, from formal government structures to informal community organizations. It encompasses the negotiation of interests, the establishment of laws and policies, and the management of conflicts.
 
 
+**Politics** is the process by which groups of people make collective decisions, typically regarding governance, power, and the distribution of resources within a society. It involves the activities, actions, and policies used to gain and hold power in a government or to influence the government’s actions. Politics can take many forms, from formal government structures to informal community organizations. It encompasses the negotiation of interests, the establishment of laws and policies, and the management of conflicts.
 
+Also, politics can refer to:
+- The art or science of government and administration of public affairs
+- The competition between individuals or parties with differing interests or ideologies
+- The negotiation, debate, and compromise involved in decision-making at all levels, from local communities to international relations
+
+In everyday language, “politics” can also describe the strategies people use to achieve influence or advantage within organizations, not just governments.
+
+An introduction to the discipline of Politics
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzIcWW3FWSQ?si=eLSfHdXWPXxO2OY2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+### What is Democracy?
+
+Democracy is a system of government in which political power is vested in the people, who exercise that power either directly or through freely elected representatives[1] [2] [3] [4]. The term originates from the Greek words *demos* (people) and *kratos* (rule), literally meaning "rule by the people"[1] [2] [5] [3].
+
+Key features of democracy include:
+- Free and fair elections, where leaders are chosen by citizens’ votes[2] [6] [3] [4].
+- Protection of fundamental human rights such as freedom of speech, religion, and equal protection under the law[2] [6] [3].
+- The rule of law, ensuring that all individuals and government entities are subject to the same legal standards[2] [6] [3] [4].
+- Majority rule balanced by protection of minority and individual rights[2] [6].
+- Decentralization of government to make it accessible and responsive to the people[2] [6].
+- Civic responsibility, where citizens are expected to participate in the political process that safeguards their rights and freedoms[2] [6].
+
+Democracy can take various forms, such as direct democracy (where citizens vote on laws and policies themselves) or representative democracy (where citizens elect officials to make decisions on their behalf)[3][4]. While practices differ across countries and cultures, all democracies are grounded in the principles of political equality, individual autonomy, and the institutionalization of freedom[2] [6] [5].
+
+[1]: https://www.britannica.com/topic/democracy
+[2]: https://www.principlesofdemocracy.org/what
+[3]: https://en.wikipedia.org/wiki/Democracy
+[4]: https://legaldictionary.net/democracy/
+[5]: https://www.coe.int/en/web/compass/democracy
+[6]: https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Democracy_in_Brief/01:_Chapters/1.02:_Characteristics_of_Democracy
+[7]: https://www.wikiwand.com/en/articles/DEMOCRACY
+[8]: https://freedomhouse.org/article/what-democracy-and-why-does-defending-it-matter
+[9]: https://www.vedantu.com/revision-notes/cbse-class-9-social-science-political-science-chapter-1-notes
+[10]: https://www.moadoph.gov.au/explore/democracy/defining-democracy
 
 
 
