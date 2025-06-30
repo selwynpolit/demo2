@@ -54,9 +54,6 @@ Democracy 2.0 is not a static blueprint, but a living, evolving framework. It wi
 
 ### What is Politics?
 
-Politics is the process of making decisions that apply to members of a group. It involves the distribution of power, resources, and responsibilities within a society. Politics can take many forms, from formal government structures to informal community organizations. It encompasses the negotiation of interests, the establishment of laws and policies, and the management of conflicts.
-
-
 **Politics** is the process by which groups of people make collective decisions, typically regarding governance, power, and the distribution of resources within a society. It involves the activities, actions, and policies used to gain and hold power in a government or to influence the government’s actions. Politics can take many forms, from formal government structures to informal community organizations. It encompasses the negotiation of interests, the establishment of laws and policies, and the management of conflicts.
 
 Also, politics can refer to:
