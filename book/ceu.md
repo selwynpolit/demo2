@@ -16,12 +16,12 @@ The CEU is designed to monitor, investigate, and enforce constitutional adherenc
 
 ### Independent Governance Structure
   The CEU is managed by an independent board composed of retired judges, respected legal scholars, civil rights experts, and citizen representatives. This board is insulated from political pressure by:
-    - **Nonpartisan Appointment Process:**  
-      Members are nominated and confirmed through a process that involves representatives from multiple branches of government (including legislative, judicial, and independent civil society bodies) to minimize partisanship.
-    - **Firewalled Funding:**  
-      The unit is funded by a dedicated, independently audited budget that is not subject to direct control by the president or any single branch of government. This ensures financial independence.
-    - **Statutory Mandates:**  
-      The unit’s authority and responsibilities are codified in law. This legal framework clearly delineates its powers, protection mechanisms, and roles, making it difficult for any administration to diminish its role retroactively.
+- **Nonpartisan Appointment Process:**  
+  Members are nominated and confirmed through a process that involves representatives from multiple branches of government (including legislative, judicial, and independent civil society bodies) to minimize partisanship.
+- **Firewalled Funding:**  
+  The unit is funded by a dedicated, independently audited budget that is not subject to direct control by the president or any single branch of government. This ensures financial independence.
+- **Statutory Mandates:**  
+  The unit’s authority and responsibilities are codified in law. This legal framework clearly delineates its powers, protection mechanisms, and roles, making it difficult for any administration to diminish its role retroactively.
 
 ### Operational Autonomy  
   The CEU operates with complete autonomy in its investigative activities and decision-making. It has the authority to initiate independent inquiries and to demand information from any government department without needing prior approval from political executives.
@@ -29,11 +29,10 @@ The CEU is designed to monitor, investigate, and enforce constitutional adherenc
 ## Organizational Structure and Size
 
 ### Core Team Composition  
-  A relatively small, elite organization helps maintain focus and operational efficiency. The CEU might consist of:
-    - **15–25 Board Members and Senior Analysts:**  
-      This ensures a diversity of expertise and a breadth of perspectives without becoming unwieldy. These members work collaboratively on investigative teams.
-    - **Specialized Technical and Legal Teams:**  
-      Separate divisions within the CEU focus on legal research, constitutional analysis, rapid-response investigative work, and public reporting. These teams are supported by administrative personnel and external advisors as needed.
+A relatively small, elite organization helps maintain focus and operational efficiency. The CEU might consist of:
+
+- 15–25 Board Members and Senior Analysts: This ensures a diversity of expertise and a breadth of perspectives without becoming unwieldy. These members work collaboratively on investigative teams.
+- Specialized Technical and Legal Teams: Separate divisions within the CEU focus on legal research, constitutional analysis, rapid-response investigative work, and public reporting. These teams are supported by administrative personnel and external advisors as needed.
 
 ### Scalable Infrastructure  
   Although the core unit is kept compact for agility, it has structured protocols for scaling its manpower and resources during constitutional crises or periods of heightened political activity. This scalability is built into its operational plans so that temporary task forces can be established under the unit’s oversight when extra investigation or enforcement is required.
@@ -69,42 +68,42 @@ Below is a proposal for incorporating an armed component into the Constitutional
   Their activation is limited strictly to emergency scenarios when all other checks and balances have failed, ensuring that their intervention preserves the constitutional framework rather than being used to advance political objectives.
 
 
-## Organizational Structure
+### Organizational Structure
 
-### Size and Composition
-    - **Core Unit:** A relatively small, elite force (e.g., 50–100 highly trained personnel) is maintained to ensure agility and focused intervention capacity.
-    - **Specialized Teams:** Within this core, specialized teams (legal advisors, technical support units, communication specialists) support the armed personnel to facilitate precise, rules-of-engagement–driven responses.
+#### Size and Composition
+- **Core Unit:** A relatively small, elite force (e.g., 50–100 highly trained personnel) is maintained to ensure agility and focused intervention capacity.
+- **Specialized Teams:** Within this core, specialized teams (legal advisors, technical support units, communication specialists) support the armed personnel to facilitate precise, rules-of-engagement–driven responses.
 
-### Command and Control
-    - **Independent Command:** The armed component falls under the direct control of the CEU’s independent board—a body composed of retired judges, constitutional scholars, and civil society experts—rather than any branch of the executive.
-    - **Chain of Command:** It operates via a dedicated chain of command, with leadership positions filled through a nonpartisan appointment process that emphasizes constitutional expertise, integrity, and a track record of public service.
+#### Command and Control
+- **Independent Command:** The armed component falls under the direct control of the CEU’s independent board—a body composed of retired judges, constitutional scholars, and civil society experts—rather than any branch of the executive.
+- **Chain of Command:** It operates via a dedicated chain of command, with leadership positions filled through a nonpartisan appointment process that emphasizes constitutional expertise, integrity, and a track record of public service.
 
 
 ### Operational Guidelines
 
 #### Strict Rules of Engagement
-    - **Constitutional Mandate:** Use of force is strictly governed by a clear mandate that limits intervention only when there is incontrovertible evidence that constitutional violations are being escalated by the illicit use of military or National Guard power.
-    - **Minimal Force:** Personnel are trained to use the minimum force necessary to protect constitutional order and to restore proper legal governance.
+- **Constitutional Mandate:** Use of force is strictly governed by a clear mandate that limits intervention only when there is incontrovertible evidence that constitutional violations are being escalated by the illicit use of military or National Guard power.
+- **Minimal Force:** Personnel are trained to use the minimum force necessary to protect constitutional order and to restore proper legal governance.
 
 #### Activation Protocols
-    - **Thresholds for Response:** Detailed criteria, established in pre-defined emergency protocols, specify when the armed component may be activated. Such triggers are based on objective indicators of executive overreach or a direct threat to the constitutional framework.
-    - **Rapid Response:** Once activated, the force works to secure sensitive locations, protect civilian institutions, and, if needed, physically block further misuse of state power until lawful control can be reestablished.
+- **Thresholds for Response:** Detailed criteria, established in pre-defined emergency protocols, specify when the armed component may be activated. Such triggers are based on objective indicators of executive overreach or a direct threat to the constitutional framework.
+- **Rapid Response:** Once activated, the force works to secure sensitive locations, protect civilian institutions, and, if needed, physically block further misuse of state power until lawful control can be reestablished.
 
 #### Civilian Oversight and Transparency
-    - Every action taken by the armed component is subject to immediate audit and review by the CEU’s independent oversight board.
-    - Regular debriefings, public reporting (with necessary operational security safeguards), and independent audits ensure transparency and accountability.
+- Every action taken by the armed component is subject to immediate audit and review by the CEU’s independent oversight board.
+- Regular debriefings, public reporting (with necessary operational security safeguards), and independent audits ensure transparency and accountability.
 
 
 
 ## Safeguards Against Abuse
 
 ### Legally Mandated Autonomy
-    - The armed component's statutory framework ensures that it is immune from direct control or manipulation by the president or any single branch of government.
-    - Its funding and administrative operations are secured by independent, firewalled resources, ensuring operational continuity even if executive attempts are made to curtail its effectiveness.
+- The armed component's statutory framework ensures that it is immune from direct control or manipulation by the president or any single branch of government.
+- Its funding and administrative operations are secured by independent, firewalled resources, ensuring operational continuity even if executive attempts are made to curtail its effectiveness.
 
 ### Checks and Balances
-    - **Independent Review Processes:** An embedded appeals and audit mechanism allows for robust review of any use of force, ensuring that every intervention is justified by clear constitutional criteria.
-    - **Periodic External Audits:** Regular audits by independent experts safeguard the integrity of the armed component, ensuring that its existence and actions remain aligned with constitutional mandates and public interest.
+- **Independent Review Processes:** An embedded appeals and audit mechanism allows for robust review of any use of force, ensuring that every intervention is justified by clear constitutional criteria.
+- **Periodic External Audits:** Regular audits by independent experts safeguard the integrity of the armed component, ensuring that its existence and actions remain aligned with constitutional mandates and public interest.
 
 
 ### Conclusion
