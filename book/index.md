@@ -31,7 +31,7 @@ features:
 
   - icon: 💽
     title: Principles
-    details: Principles and policies
+    details: Principles adapted from Permaculture Design Principles
     link: /principles
 
   - icon: 🤯
