@@ -1,11 +1,31 @@
 ---
-title: Principles adapted from Permaculture Design Principles
+title: Principles
 ---
 
 
 # Principles
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fprinciples&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
+
+Principles are the foundation of any system, guiding its design and operation. Democracy 2.0 incorporates principles from both Permaculture design as well as the open source software movement. 
+
+
+## Open Source Principles
+
+[Open source](open_source.md) refers to computer programs in which the source code (human-readable instructions) is available to the public for usage, modification from its original design, and publication of their own version. Many large formal institutions have sprung up to support the development of the open-source movement, including the Apache Software Foundation, which supports community projects such as the open-source framework and the open-source HTTP server Apache HTTP.
+
+- Collaborative participation and shared responsibility: Democracy 2.0 is built on the idea that everyone can contribute to the design and implementation of governance systems. This means that citizens, developers, and experts can all work together to create a better democracy. Shared responsibility ensures that no single entity has control over the system, and everyone has a stake in its success.
+- Transparency and security: The system is designed to be transparent and secure, ensuring that all actions and decisions are visible to the public. This helps to build trust and accountability in the governance process.
+- Decentralization: Democracy 2.0 promotes a decentralized approach to governance, where power is distributed among various stakeholders rather than being concentrated in a single authority. This allows for more diverse perspectives and greater resilience against corruption.
+- Open exchange of ideas: The system encourages the free exchange of ideas and information, allowing for continuous improvement and innovation. This is similar to how open source software thrives on collaboration and shared knowledge.
+- Meritocracy and inclusivity: Democracy 2.0 values the contributions of all participants, regardless of their background or expertise. This ensures that diverse voices are heard and that the system is inclusive and representative of the entire population.
+- Community-oriented development: The focus is on creating a system that serves the needs of the community, rather than being driven by profit or political agendas. This aligns with the open source ethos of prioritizing user needs and fostering a sense of ownership among contributors.
+- Do-ocracy: Democracy 2.0 emphasizes action and implementation, encouraging participants to take initiative and contribute to the development of the system. This is similar to the open source principle of "release early, release often," where continuous improvement is prioritized over perfection.
+- Empowerment: Democracy 2.0 empowers citizens to take an active role in shaping their governance system (with immediate feedback), fostering a sense of agency and responsibility. This is akin to how open source software empowers users to modify and improve the codebase, making it more adaptable to their needs.
+- Self-organization: The system is designed to be self-organizing, allowing for organic growth and adaptation over time. This mirrors the open source approach of allowing communities to evolve and adapt based on their unique needs and circumstances.
+- Respect and Reciprocity: Democracy 2.0 promotes a culture of respect and reciprocity among participants, fostering collaboration and mutual support. This is similar to the open source community's emphasis on building relationships and sharing knowledge for the greater good.
+
+
 
 ## Permaculture Design Principles  
 Permaculture principles such as the importance of localism, community engagement, and ecological sustainability can be applied to governance.

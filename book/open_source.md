@@ -7,6 +7,9 @@ title: Open Source
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fselwynpolit.github.io%2Fdemo2%2Fopen_source&s=16&c=030303&bg=00000000&no=5&ff=electrolize&tb=&ta=+Views)
 
+Open source refers to computer programs in which the source code (human-readable instructions) is available to the public for usage, modification from its original design, and publication of their own version. Many large formal institutions have sprung up to support the development of the open-source movement, including the Apache Software Foundation, which supports community projects such as the open-source framework and the open-source HTTP server Apache HTTP.
+
+## A Brief History of Open Source
 The open source movement began as a response to the increasing restriction and commercialization of software in the late 1970s and early 1980s. Initially, software was often shared freely among researchers and developers, but as proprietary software became the norm, access to source code was restricted, and collaboration diminished[7].
 
 A major turning point came in 1983 when Richard Stallman launched the GNU Project, aiming to create a free operating system and promote software freedom. He later founded the Free Software Foundation (FSF) in 1985 and introduced the GNU General Public License (GPL), which guaranteed users the rights to use, study, modify, and redistribute software[2][3][7]. This was the foundation of the Free Software Movement, emphasizing freedom over price.
@@ -15,7 +18,7 @@ In the 1990s, the movement gained momentum with key events such as the release o
 
 Since then, open source has driven major innovations, including the development of the Mozilla Firefox browser, Git version control, Android OS, and the rise of cloud computing and containerization technologies like Docker and Kubernetes[1].
 
-**Incredible Benefits of Open Source:**
+## Benefits of Open Source
 
 - **Cost Savings:** Open source software is typically free to use, modify, and distribute, reducing expenses for individuals and organizations[5].
 - **Flexibility and Customization:** Users can adapt open source software to their specific needs, fostering innovation and efficiency[5][6].
@@ -26,10 +29,9 @@ Since then, open source has driven major innovations, including the development 
 
 Today, open source is not just a development model but a driving force for technological, economic, and social change, powering everything from the internet’s infrastructure to the latest advancements in artificial intelligence and cloud computing. [1] [6]
 
-See [Open Source Trends](open_source_trends.md) for more.
+Check out [Open Source Trends](open_source_trends.md) for more.
 
 Most of this is from [Perplexity AI chat](https://pplx.ai/share)
-
 
 
 [1]: https://www.freecodecamp.org/news/brief-history-of-open-source/

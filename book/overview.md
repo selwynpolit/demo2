@@ -11,6 +11,15 @@ title: Overview
 
 To reimagine governance as a transparent, inclusive, and equitable [open-source](https://en.wikipedia.org/wiki/Open_source) ecosystem—supporting an adaptive democratic process through digital accessibility, regenerative design, and sustained public engagement.
 
+## Objectives
+
+
+* **Educate Visitors:** Inform the public about the principles, structures, and proposed reforms of the Democracy 2.0 model.
+* **Promote Engagement:** Encourage visitors to understand, discuss, and potentially contribute to the development and implementation of this new democratic framework.
+* **Outline a Comprehensive System:** Clearly present all facets of the proposed system, from core values and governance to legislative processes, economic considerations, and justice.
+* **Advocate for Reform:** Highlight the need for modern democratic reform and present Democracy 2.0 as a viable, human-centric alternative to existing systems.
+* **Facilitate Participation:** Provide clear pathways for individuals to get involved, offer feedback, or contact the project team.
+
 ## Genesis
 
 This project was born out of deep concern for the future of democratic governance in the face of authoritarian drift and systemic inequity. In reaction to ideologies that consolidate control and undermine democratic institutions, exemplified by [Project 2025](https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf) that threaten to erode civil liberties and consolidate power among the privileged few, **Democracy 2.0** emerged as a proactive alternative. Rather than merely reacting to the chaos and disinformation that floods our civic ecosystem, this initiative seeks to build something visionary: a north star for reimagining governance from the ground up.
