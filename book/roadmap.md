@@ -21,4 +21,3 @@ Future milestones and proposals that are open for public discussion.
 
 ## Todos
 - Look at what has worked in other countries such as Denmark, Finland, Norway, Sweden, and the Netherlands.
-- Add something about repercussions for acting in bad faith with detailed descriptions of what acting in bad faith means. Currently, the US doesn't have definitions or any sort of body that monitors or enforces acting in bad faith. Some other countries have implemented this, such as the UK with their [Parliamentary Commissioner for Standards](https://en.wikipedia.org/wiki/Parliamentary_Commissioner_for_Standards) and [Code of Conduct](https://www.parliament.uk/site-information/standards/commissioner-for-standards/code-of-conduct/).
